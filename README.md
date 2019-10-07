@@ -37,7 +37,7 @@ The list of contributors who also participated in this project;Melby John,
 License
 This project is licensed under the MIT License - see the LICENSE.md file for more details.
 
-Acknowledgments
+Acknowledgments.
 Hat tip to anyone whose code was used
 Inspiration
 etc
