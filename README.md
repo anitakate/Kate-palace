@@ -1,7 +1,7 @@
 # 
 Kate-palace
 
-One Paragraph of project description goes here
+This project is of my pizza inn which I own, whereby customers order different sizes of pizza with one or more toppings at different prizes.
 
 Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
