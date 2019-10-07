@@ -12,7 +12,7 @@ Running the tests
 You open your work by opening with a live server 
 
 Break down into end to end tests
-Explain what these tests test and why
+This is to make sure that what one
 
 Give an example
 And coding style tests
