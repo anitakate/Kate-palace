@@ -9,16 +9,11 @@ These instructions will get you a copy of the project up and running on your loc
 It requires the visual studio code and the web browser.
 
 Running the tests
-You open your work by opening with a live server 
+You open your work by opening with a live server.
 
 Break down into end to end tests
 This is to make sure that what one is doing is correct and to check if the changes made are taking place.
 
-Give an example
-And coding style tests
-Explain what these tests test and why
-
-Give an example
 Deployment
 Add additional notes about how to deploy this on a live system
 
