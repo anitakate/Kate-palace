@@ -1,5 +1,5 @@
 # 
-Kate-palace
+Kate-palace,
 
 This project is of my pizza inn which I own, whereby customers order different sizes of pizza with one or more toppings at different prizes.
 
