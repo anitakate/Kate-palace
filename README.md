@@ -14,7 +14,7 @@ Break down into end to end tests
 This is to make sure that what one is doing is correct and to check if the changes made are taking place.
 
 Deployment
-Add additional notes about how to deploy this on a live system
+Opening a live server using chrome .
 
 Built With
 Dropwizard - The web framework used
