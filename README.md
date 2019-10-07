@@ -34,7 +34,7 @@ Catherine Nyambura Ndung'u - Initial work - Pizza Inn.
 The list of contributors who also participated in this project;Melby John,
                                                                Shantel Mogare
 
-License
+License.
 This project is licensed under the MIT License - see the LICENSE.md file for more details.
 
 Acknowledgments.
