@@ -8,7 +8,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 It requires the visual studio code and the web browser.
 
-Running the tests
 You open your work by opening with a live server.
 
 Break down into end to end tests
@@ -28,7 +27,7 @@ Versioning
 We use SemVer for versioning. For the versions available, see the tags on this repository.
 
 Authors
-Catherine Nyambura - Initial work - Pizza Inn
+Catherine Nyambura Ndung'u - Initial work - Pizza Inn
 See also the list of contributors who participated in this project.
 
 License
