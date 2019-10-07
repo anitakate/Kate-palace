@@ -29,7 +29,7 @@ We use SemVer for versioning. For the versions available, see the tags on this r
 
 Authors
 Catherine Nyambura Ndung'u - Initial work - Pizza Inn.
-
+Jesse Mukira.
 
 The list of contributors who also participated in this project;Melby John,
                                                                Shantel Mogare
@@ -40,4 +40,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for mor
 Acknowledgments.
 Hat tip to anyone whose code was used.
 Inspiration
-etc
+etc.
