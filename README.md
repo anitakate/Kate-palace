@@ -10,7 +10,7 @@ It requires the visual studio code and the web browser.
 
 You open your work by opening with a live server.
 
-Break down into end to end tests
+Break down into end to end tests.
 This is to make sure that what one is doing is correct and to check if the changes made are taking place.
 
 Deployment
