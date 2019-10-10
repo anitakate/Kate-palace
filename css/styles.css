@@ -2,11 +2,12 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url('../images/background1.jpg');
+    background-image: url('../images/bkd.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+}
   
   .show-cart li {
     display: flex;
@@ -21,4 +22,10 @@ body{
   }
   .header h1{
       text-align: center;
+  }
+  #pizza{
+      text-align: center;
+      color: darkblue;
+      font-size: 10vh;
+      font-style: italic;
   }
